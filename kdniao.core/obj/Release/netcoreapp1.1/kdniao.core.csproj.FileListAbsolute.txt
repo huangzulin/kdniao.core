@@ -1,0 +1,6 @@
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\bin\Release\netcoreapp1.1\kdniao.core.deps.json
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\bin\Release\netcoreapp1.1\kdniao.core.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\bin\Release\netcoreapp1.1\kdniao.core.pdb
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\obj\Release\netcoreapp1.1\kdniao.core.AssemblyInfo.cs
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\obj\Release\netcoreapp1.1\kdniao.core.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core\obj\Release\netcoreapp1.1\kdniao.core.pdb

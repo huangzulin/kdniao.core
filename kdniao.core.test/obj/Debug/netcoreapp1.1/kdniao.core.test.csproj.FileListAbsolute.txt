@@ -1,0 +1,14 @@
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.test.deps.json
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.test.runtimeconfig.json
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.test.runtimeconfig.dev.json
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.test.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.test.pdb
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\obj\Debug\netcoreapp1.1\kdniao.core.test.csprojResolveAssemblyReference.cache
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\obj\Debug\netcoreapp1.1\kdniao.core.test.AssemblyInfo.cs
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\obj\Debug\netcoreapp1.1\kdniao.core.test.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\obj\Debug\netcoreapp1.1\kdniao.core.test.pdb
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.dll
+c:\users\zulin\documents\visual studio 2017\Projects\kdniao.core\kdniao.core.test\bin\Debug\netcoreapp1.1\kdniao.core.pdb
